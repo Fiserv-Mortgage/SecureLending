@@ -1,0 +1,19 @@
+2018-03-28 00:32:28,886 INFO  [Log] **************************************************************************************** 
+2018-03-28 00:32:28,886 INFO  [Log] **************************************************************************************** 
+2018-03-28 00:32:28,886 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-28 00:32:28,886 INFO  [Log] **************************************************************************************** 
+2018-03-28 00:32:28,886 INFO  [Log] **************************************************************************************** 
+2018-03-28 00:32:28,886 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-03-28 00:32:28,886 INFO  [Log] Opening Browser 
+2018-03-28 00:32:57,951 INFO  [Log] Chrome browser started 
+2018-03-28 00:32:58,622 INFO  [Log] Navigating to URL 
+2018-03-28 00:34:03,459 INFO  [Log] Entering the text in userName_txt 
+2018-03-28 00:34:05,241 INFO  [Log] Entering the text in pwd_text 
+2018-03-28 00:34:05,452 INFO  [Log] Wait for 5 seconds 
+2018-03-28 00:34:10,557 INFO  [Log] Clicking on Webelement login_btn 
+2018-03-28 00:34:28,678 INFO  [Log] Wait for 5 seconds 
+2018-03-28 00:34:33,879 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-28 00:34:33,879 INFO  [Log] X 
+2018-03-28 00:34:33,879 INFO  [Log] X 
+2018-03-28 00:34:33,879 INFO  [Log] X 
+2018-03-28 00:34:33,879 INFO  [Log] X 
